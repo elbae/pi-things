@@ -1,4 +1,4 @@
-### Writing the image
+### .img to sd
 ``` dd bs=4M if=2017-07-05-raspbian-jessie-lite.img of=/dev/mmcblk0 status=progress ```
 ### ssh
 In /boot: create empty file ssh
